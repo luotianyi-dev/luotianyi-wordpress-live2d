@@ -1,0 +1,72 @@
+{
+    "mouseover": [
+        {
+            "selector": ".entry-content a",
+            "text": [
+                "要看看 <span style='color:#0099cc;'>「{text}」</span> 么？"
+            ]
+        },
+        {
+            "selector": ".feature-content a",
+            "text": [
+                "超级热门的 <span style='color:#0099cc;'>「{text}」</span> ，要看看么？"
+            ]
+        },
+        {
+            "selector": ".searchbox",
+            "text": [
+                "在找什么东西呢，需要帮忙吗？"
+            ]
+        },
+        {
+            "selector": ".cd-top",
+            "text": [
+                "你想要返回顶部嘛？"
+            ]
+        },
+        {
+            "selector": ".site-title",
+            "text": [
+                "你要返回首页是吗？"
+            ]
+        },
+        {
+            "selector": ".comments",
+            "text": [
+                "看了这么久，是时候评论一下啦！"
+            ]
+        },
+        {
+            "selector": ".sing-button",
+            "text": [
+                "这是播放按钮啦~"
+            ]
+        },
+        {
+            "selector": ".hide-button",
+            "text": [
+                "呜呜呜你不要我了吗~"
+            ]
+        },
+        {
+            "selector": "#pagination",
+            "text": [
+                "想看看更久远的内容？"
+            ]
+        }
+    ],
+    "click": [
+        {
+            "selector": "#landlord #live2d",
+            "text": [
+                "想听我唱歌吗？",
+                "不要动手动脚的！快把手拿开~~",
+                "真…真的是不知羞耻！",
+                "Hentai！",
+                "再摸的话我可要报警了！⌇●﹏●⌇",
+                "110吗，这里有个变态一直在摸我(ó﹏ò｡)",
+                "让我们一起唱吧，心中的歌！"
+            ]
+        }
+    ]
+}
