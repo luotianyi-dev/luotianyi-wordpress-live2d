@@ -35,7 +35,7 @@ function plugin_editor_link($name) {
 <input type="hidden" name="update_pluginoptions" value="true" />
     <div style="margin-left: 50px">
         <p><input type="color" name="main-color" id="main-color" value="<?php echo get_option('live2d_main_color'); ?>" /> 对话框主体颜色</p>
-        <p><input type="color" name="text-color" id="text-color" value="<?php echo get_option('live2d_text_color'); ?>" /> 对话框主体颜色</p>
+        <p><input type="color" name="text-color" id="text-color" value="<?php echo get_option('live2d_text_color'); ?>" /> 对话框文字颜色</p>
         <p><input type="checkbox" name="lyric" id="lyric" <?php if (get_option('live2d_lyric') == 'true') echo 'checked'; ?> /> 歌词显示</p>
         <p><input type="checkbox" name="special-tip" id="special-tip" <?php if (get_option('live2d_special_tip') == 'true') echo 'checked'; ?> /> 特殊显示</p>
         <p>模型：<select name="model" id="model">
