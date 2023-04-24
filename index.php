@@ -3,14 +3,14 @@
 Plugin Name: Wordpress LibreLive2D
 Plugin URI: https://github.com/luotianyi-dev/wp-libre-live2d
 Description: Open-source Wordpress Live2D Plugin
-Version: 1.1.0.2
-Author: Tianyi IT
+Version: 1.1.0.3
+Author: Tianyi Network
 Author URI: https://luotianyi.dev/
 License: GPL2
 */
 
 defined('ABSPATH') or exit;
-define('LIVE2D_VERSION', '1.1.0-ng22.07.12+tianyi02');
+define('LIVE2D_VERSION', '1.1.0-ng22.07.12+tianyi03');
 define('LIVE2D_URL', plugins_url('', __FILE__));
 define('LIVE2D_PATH', dirname(__FILE__));
 
