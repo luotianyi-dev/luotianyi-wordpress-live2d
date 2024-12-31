@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Wordpress LibreLive2D
-Plugin URI: https://github.com/luotianyi-dev/wp-libre-live2d
+Plugin Name: LibreLive2D (Luo Tianyi Edition)
+Plugin URI: https://github.com/luotianyi-dev/luotianyi-wordpress-librelive2d
 Description: Open-source Wordpress Live2D Plugin
 Version: 1.1.0.3
 Author: Tianyi Network
